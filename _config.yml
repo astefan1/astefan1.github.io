@@ -23,7 +23,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:angelika.stefan@psy.lmu.de"}
   - {title: Github, icon: github, url: "https://github.com/astefan1"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/ephemeralidea"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
