@@ -16,14 +16,16 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "about.md", title: "Home"}
+  - {file: "index.html", title: "Blog"}
+  - {file: "README.md", title: "Publications"}
+  - {file: "Teaching.md", title: "Teaching"}
+  - {file: "CV_AngelikaStefan.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:angelika.stefan@psy.lmu.de"}
   - {title: Github, icon: github, url: "https://github.com/astefan1"}
   - {title: BlueSky, icon: square, url: "https://bsky.app/profile/ephemeralidea.bsky.social"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/ephemeralidea"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
