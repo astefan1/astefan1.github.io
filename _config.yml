@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "blog.html", title: "Blog"}
   - {file: "publications.md", title: "Publications"}
   - {file: "teaching.md", title: "Teaching"}
-  - {file: "astefan1.github.io/docs/CV_AngelikaStefan.pdf", title: "CV"}
+  - {file: "/astefan1.github.io/docs/CV_AngelikaStefan.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:angelika.stefan@psy.lmu.de"}
