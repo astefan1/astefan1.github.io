@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-permalink: "/about/"
+permalink: "/pubs/"
 layout: page
 ---
 
