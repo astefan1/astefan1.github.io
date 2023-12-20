@@ -4,7 +4,7 @@ permalink: "/teach/"
 layout: page
 ---
 
-I have taught graduate and undergraduate courses and workshops about (Bayesian) statistics, programming, and Open Science practices. Below, you can find a list with course materials. Course materials are a mix of German and English, indicated by the little country flag on the side (course names are all translated to English). All linked course materials are under a CC-BY license. [Contact me](mailto:angelika.m.stefan@gmail.com) if you find the materials useful and/or if you want to invite me for a workshop!
+I have taught graduate and undergraduate courses and workshops about (Bayesian) statistics, programming, and Open Science practices. Below, you can find a list with course materials. Course materials are a mix of German and English, indicated by the little country flag on the side (course names are all translated to English). All linked course materials are under a [CC-BY license](https://creativecommons.org/licenses/by/4.0/deed.en). [Contact me](mailto:angelika.m.stefan@gmail.com) if you find the materials useful and/or if you want to invite me for a workshop!
 
 ## Lecturing
 
