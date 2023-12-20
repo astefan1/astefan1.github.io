@@ -24,6 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:angelika.stefan@psy.lmu.de"}
+  - {title: GoogleScholar, icon: google-scholar, url: "https://scholar.google.de/citations?user=5w0yig0AAAAJ&hl=de"}
   - {title: Github, icon: github, url: "https://github.com/astefan1"}
   - {title: BlueSky, icon: square, url: "https://bsky.app/profile/ephemeralidea.bsky.social"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/ephemeralidea"}
