@@ -65,7 +65,7 @@ __2021__
 - 🇩🇪 [Introduction to Bayesian Data Analysis with JASP](https://osf.io/8d3gy/) (Universität Kassel)
 - 🇬🇧 [Bayesian Statistics with JASP](https://osf.io/enbfq/) (Universität Duisburg-Essen)
 - 🇬🇧 [Bayesian Data Analysis with JASP](https://osf.io/s7yqa/) (Vrije Universiteit Amsterdam)
-- 🇬🇧 [What’s Your Prior? Incorporating Prior Knowledge Into the Prior Distribution](https://psyres.uva.nl/events/psychology-forum/psychology-forum.html?cb#Psychology-Forum-3-Whats-your-prior--Angelika-Stefan--Julia-Haaf) [:movie_camera: Video](https://i.vimeocdn.com/video/1046510279-c29c2d91c7dfb0e0d721275a6dfb84f9c969faae94df7001541ca0d904150f19-d?mw=6720&amp;mh=3780&amp;q=70) (Psychology Forum, University of Amsterdam)
+- 🇬🇧 [What’s Your Prior? Incorporating Prior Knowledge Into the Prior Distribution](https://psyres.uva.nl/events/psychology-forum/psychology-forum.html?cb#Psychology-Forum-3-Whats-your-prior--Angelika-Stefan--Julia-Haaf) [🎥 Video](https://i.vimeocdn.com/video/1046510279-c29c2d91c7dfb0e0d721275a6dfb84f9c969faae94df7001541ca0d904150f19-d?mw=6720&amp;mh=3780&amp;q=70) (Psychology Forum, University of Amsterdam)
 
 __2020__
 - 🇬🇧 [Preregistration and Preprints: What, Why, and How?](https://osf.io/kxsr3) (Vrije Universiteit Amsterdam)

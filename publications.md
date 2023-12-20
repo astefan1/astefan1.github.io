@@ -33,7 +33,7 @@ layout: page
 - van Doorn, J., Aust, F., Haaf, J., Stefan, A. M., & Wagenmakers E.-J. (2023). Bayes factors for mixed models. Computational Brain & Behavior 6, 1-13.  
 [Paper](https://doi.org/10.1007/s42113-021-00113-2) | [Code](https://osf.io/srgwp/)
 - Stefan, A. M. & Schönbrodt, F. D. (2023). Big little lies: A compendium and simulation of p-hacking strategies. Royal Society Open Science, 10(2), 220346.  
-[Paper](https://doi.org/10.1098/rsos.220346) | [Code](https://github.com/astefan1/phacking_compendium) | [Shiny App](https://shiny.psy.lmu.de/felix/ShinyPHack/) | [Materials](https://osf.io/5nbkc/)
+[Paper](https://doi.org/10.1098/rsos.220346) | [Code](https://github.com/astefan1/phacking_compendium) | [Materials](https://osf.io/5nbkc/) | [Shiny App](https://shiny.psy.lmu.de/felix/ShinyPHack/) 
 - Werner, G., Sckopke, P., Cludius, B., Stefan, A., Schönbrodt, F., & Zygar-Hoffmann, C. (2023). The predictive power of insomnia symptoms on other aspects of mental health during the COVID-19 pandemic: A longitudinal study. Journal of Sleep Research 32(1), e13641.  
 [Paper](https://doi.org/10.1111/jsr.13641) | [Materials](https://osf.io/72ejg/)
 
@@ -67,7 +67,7 @@ layout: page
 - Crüwell, S., Stefan, A. M., & Evans, N. J. (2019). Robust standards in cognitive science. Computational Brain & Behavior, 2(3), 255–265.  
 [Paper](https://doi.org/10.1007/s42113-019-00049-8) 
 - Stefan, A. M., Gronau, Q. F., Schönbrodt, F. D., & Wagenmakers, E.-J. (2019). A tutorial on Bayes Factor Design Analysis using an informed prior. Behavior Research Methods, 51(3), 1042–1058.  
-[Paper](https://doi.org/10.3758/s13428-018-01189-8) | [Code, Materials](https://osf.io/3f5qd/)
+[Paper](https://doi.org/10.3758/s13428-018-01189-8) | [Code, Materials](https://osf.io/3f5qd/) | [Shiny App](https://shinyapps.org/showapp.php?app=https://shinyapps.org/apps/BFDA/&by=Angelika%20Stefan&title=BFDA%20-%20A%20Shiny%20App%20for%20Bayesian%20Design%20Analysis&shorttitle=BFDA) | [R Package](https://github.com/nicebread/BFDA)
 
 ## Miscellaneous Academic Publications
 
