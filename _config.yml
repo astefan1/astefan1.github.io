@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "publications.md", title: "Publications"}
   - {file: "teaching.md", title: "Teaching"}
-  - {file: "CVAngelikaStefan.pdf", title: "CV"}
+  - {url: "https://github.com/astefan1/astefan1.github.io/blob/4f71a5e28bef41e56a16b382367252e58cd70e63/assets/CVAngelikaStefan.pdf?raw=true", title: "CV"}
   #- {file: "blog.html", title: "Blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
