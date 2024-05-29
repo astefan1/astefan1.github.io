@@ -6,6 +6,8 @@ layout: page
 
 ## Preprints (under Review / Revision)
 
+- Gigerenzer, G., Allen, C., Gaillard, S. D. M., Goldstone, R. L., Haaf, J. M., Holmes, W. R., Kashima, Y., Motz, B., Musslick, S., & Stefan, A. M. (2024). Alternative models of research funding. 
+[Manuscript](https://philsci-archive.pitt.edu/23484/)
 -  Claus, N., Flechsenhar, A., Motka, F., Ehring T., Sckopke, P., Schönbrodt, F. D., Stefan, A. M., Werner, G. G., Cludius, B., & Zygar-Hoffmann, C. (2023). Interpersonal versus intrapersonal emotion regulation: Intensity of negative emotion predicts usage probability.  
 [Manuscript](https://osf.io/a7q93) | [Code, Materials](https://osf.io/hjzpw/)
 -  Ruisch, B. C., Anderson, R. A., Stefan, A. M., & Krosch, A. R. (2023). Are there ideological asymmetries in intergroup bias? A minimal groups approach. Stage 1 Registered Report (in principal acceptance at Nature Human Behavior).  
@@ -23,7 +25,9 @@ layout: page
 [Manuscript](https://psyarxiv.com/9sazk) | [Code](https://github.com/astefan1/forecastBF) | [Materials](https://osf.io/xh2ep/)
 - Veenman, M., Stefan, A. M., & Haaf, J. (in press). Bayesian hierarchical modeling: An introduction and reassessment. Behavior Research Methods.  
 [Paper](https://doi.org/10.3758/s13428-023-02204-3) | [Code](https://github.com/MyrtheV/Bayesian-Hierarchical-Modelling-An-Introduction-and-Reassessment/tree/main) | [Materials](https://osf.io/cn73e/) 
-- Sarafoglou, A., Bartoš, F., Stefan, A. M., Haaf, J. M., & Wagenmakers, E.-J. (in press). “This behavior strikes us as ideal”: Assessment and anticipations of Huisman (2022). Psychonomic Bulletin & Review.  
+
+### 2024
+- Sarafoglou, A., Bartoš, F., Stefan, A. M., Haaf, J. M., & Wagenmakers, E.-J. (in press). “This behavior strikes us as ideal”: Assessment and anticipations of Huisman (2022). Psychonomic Bulletin & Review, 31(1).  
 [Paper](https://doi.org/10.3758/s13423-023-02299-x)
 
 ### 2023
@@ -33,7 +37,7 @@ layout: page
 - van Doorn, J., Aust, F., Haaf, J., Stefan, A. M., & Wagenmakers E.-J. (2023). Bayes factors for mixed models. Computational Brain & Behavior 6, 1-13.  
 [Paper](https://doi.org/10.1007/s42113-021-00113-2) | [Code](https://osf.io/srgwp/)
 - Stefan, A. M. & Schönbrodt, F. D. (2023). Big little lies: A compendium and simulation of p-hacking strategies. Royal Society Open Science, 10(2), 220346.  
-[Paper](https://doi.org/10.1098/rsos.220346) | [Code](https://github.com/astefan1/phacking_compendium) | [Materials](https://osf.io/5nbkc/) | [Shiny App](https://shiny.psy.lmu.de/felix/ShinyPHack/) 
+[Paper](https://doi.org/10.1098/rsos.220346) | [Code, R Package](https://github.com/astefan1/phacking_compendium) | [Materials](https://osf.io/5nbkc/) | [Shiny App](https://shiny.psy.lmu.de/felix/ShinyPHack/) 
 - Werner, G., Sckopke, P., Cludius, B., Stefan, A., Schönbrodt, F., & Zygar-Hoffmann, C. (2023). The predictive power of insomnia symptoms on other aspects of mental health during the COVID-19 pandemic: A longitudinal study. Journal of Sleep Research 32(1), e13641.  
 [Paper](https://doi.org/10.1111/jsr.13641) | [Materials](https://osf.io/72ejg/)
 
