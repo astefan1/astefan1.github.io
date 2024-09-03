@@ -6,13 +6,15 @@ layout: page
 
 ## Preprints (under Review / Revision)
 
-- Gigerenzer, G., Allen, C., Gaillard, S. D. M., Goldstone, R. L., Haaf, J. M., Holmes, W. R., Kashima, Y., Motz, B., Musslick, S., & Stefan, A. M. (2024). Alternative models of research funding. 
+- Egli, S., Badenbach, T., van Emmerik, A., Stefan, A. M., OPTIMA Study Group, & Kopf-Beck, J. (2024). Emotion regulation and attachment as mechanisms of change in schema therapy and cognitive behaviour therapy for depression.   
+[Manuscript](https://osf.io/preprints/osf/67vhn) | [Code](https://github.com/astefan1/MoCDepression/tree/main)
+- Gigerenzer, G., Allen, C., Gaillard, S. D. M., Goldstone, R. L., Haaf, J. M., Holmes, W. R., Kashima, Y., Motz, B., Musslick, S., & Stefan, A. M. (2024). Alternative models of research funding.   
 [Manuscript](https://philsci-archive.pitt.edu/23484/)
 -  Claus, N., Flechsenhar, A., Motka, F., Ehring T., Sckopke, P., Schönbrodt, F. D., Stefan, A. M., Werner, G. G., Cludius, B., & Zygar-Hoffmann, C. (2023). Interpersonal versus intrapersonal emotion regulation: Intensity of negative emotion predicts usage probability.  
 [Manuscript](https://osf.io/a7q93) | [Code, Materials](https://osf.io/hjzpw/)
 -  Ruisch, B. C., Anderson, R. A., Stefan, A. M., & Krosch, A. R. (2023). Are there ideological asymmetries in intergroup bias? A minimal groups approach. Stage 1 Registered Report (in principal acceptance at Nature Human Behavior).  
 [Manuscript](https://osf.io/jxsgw/?view_only=1b1994774989419eac3be214fce974f7)
--  Kaczmarek, N., Mignon, A., Rousseau, A., & Stefan, A. M. (2023). Comparing the effectiveness of mental contrasting, implementation intentions, and their combination to promote physical activity among insufficiently active people. Stage 1 Registered Report.
+-  Kaczmarek, N., Mignon, A., Rousseau, A., & Stefan, A. M. (2023). Comparing the effectiveness of mental contrasting, implementation intentions, and their combination to promote physical activity among insufficiently active people. Stage 1 Registered Report (in principle acceptance at International Review of Social Psychology).   
 [Manuscript](https://osf.io/92v8k/) | [Code](https://github.com/astefan1/GoalAchievement)
 -  McKinney, K., Stefan, A. M., & Gronau, Q. F. (2021). Developing prior distributions for Bayesian meta-analyses.  
 [Manuscript](https://psyarxiv.com/2v5bz/) | [Code, Data, Materials](https://osf.io/2xubf/)
@@ -23,11 +25,11 @@ layout: page
 
 - Stefan, A. M., Gronau, Q. F., & Wagenmakers, E.-J. (in press). Interim design analysis using Bayes factor forecasts. Psychological Methods.  
 [Manuscript](https://psyarxiv.com/9sazk) | [Code](https://github.com/astefan1/forecastBF) | [Materials](https://osf.io/xh2ep/)
-- Veenman, M., Stefan, A. M., & Haaf, J. (in press). Bayesian hierarchical modeling: An introduction and reassessment. Behavior Research Methods.  
-[Paper](https://doi.org/10.3758/s13428-023-02204-3) | [Code](https://github.com/MyrtheV/Bayesian-Hierarchical-Modelling-An-Introduction-and-Reassessment/tree/main) | [Materials](https://osf.io/cn73e/) 
 
 ### 2024
-- Sarafoglou, A., Bartoš, F., Stefan, A. M., Haaf, J. M., & Wagenmakers, E.-J. (in press). “This behavior strikes us as ideal”: Assessment and anticipations of Huisman (2022). Psychonomic Bulletin & Review, 31(1).  
+- Veenman, M., Stefan, A. M., & Haaf, J. (in press). Bayesian hierarchical modeling: An introduction and reassessment. Behavior Research Methods 56, 4600-4631.  
+[Paper](https://doi.org/10.3758/s13428-023-02204-3) | [Code](https://github.com/MyrtheV/Bayesian-Hierarchical-Modelling-An-Introduction-and-Reassessment/tree/main) | [Materials](https://osf.io/cn73e/) 
+- Sarafoglou, A., Bartoš, F., Stefan, A. M., Haaf, J. M., & Wagenmakers, E.-J. (2024). “This behavior strikes us as ideal”: Assessment and anticipations of Huisman (2022). Psychonomic Bulletin & Review, 31(1).  
 [Paper](https://doi.org/10.3758/s13423-023-02299-x)
 
 ### 2023

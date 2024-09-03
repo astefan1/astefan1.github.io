@@ -61,7 +61,7 @@ __2023__
 __2022__
 
 - <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="12"> [Introduction to Bayesian Data Analysis](https://osf.io/ky42u/) (University of Sheffield)
-- <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="12"> [R Crashkurs für Beginners und Refreshers](https://osf.io/a3ut7) (University of the Bundeswehr Munich)
+- <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="12"> [R Crashkurs for Beginners and Refreshers](https://osf.io/a3ut7) (University of the Bundeswehr Munich)
 - <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="12"> [Bayesian Data Analysis with JASP](https://osf.io/jd9fe/) (Max-Planck School of Cognition)
 - <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="12"> [Bayesian Data Analysis with JASP](https://osf.io/s7yqa/) (Vrije Universiteit Amsterdam)
 
