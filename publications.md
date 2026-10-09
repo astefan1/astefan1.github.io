@@ -19,11 +19,11 @@ layout: page
 
 - Kaczmarek, N., Mignon, A., Rousseau, A., & Stefan, A. M. (in press). Comparing the effectiveness of mental contrasting, implementation intentions, and their combination to promote physical activity among insufficiently active people. *International Review of Social Psychology*.  
 [Preregistration](https://osf.io/sgjfw/overview) | [Stage 1 Registered Report](https://osf.io/92v8k/files/3zbnq) | [Code](https://github.com/astefan1/GoalAchievement) | [Data, Materials](https://osf.io/92v8k/overview) 
-- Ruisch, B. C., Anderson, R. A., Amin, Y., Stefan, A. M., & Krosch, A. R. (2023). Are there ideological asymmetries in intergroup bias? A minimal groups approach. Stage 2 Registered Report submitted to Nature Human Behavior (Registered Report accepted with minor revisions at Stage 2).  
+- Ruisch, B. C., Anderson, R. A., Amin, Y., Stefan, A. M., & Krosch, A. R. (2023). Are there ideological asymmetries in intergroup bias? A minimal groups approach. *Nature Human Behavior*.  
 [Paper](https://doi.org/10.31234/osf.io/vuc2n_v1) | [Stage 1 Registered Report](https://osf.io/be5h6/overview) | [Code](https://github.com/astefan1/minimalGroups_analysis) | [Data, Materials](https://osf.io/jxsgw/overview) 
 
 ### 2026
-- Egli, S.*, Badenbach, T.*, van Emmerik, A., Stefan, A. M., OPTIMA Study Group, & Kopf-Beck, J. (2026). Mechanisms of change in the treatment of depression: On the role of attachment, reappraisal and suppression. *Clinical Psychology & Psychotherapy 33*(5), e70345.  
+- Egli, S., Badenbach, T., van Emmerik, A., Stefan, A. M., OPTIMA Study Group, & Kopf-Beck, J. (2026). Mechanisms of change in the treatment of depression: On the role of attachment, reappraisal and suppression. *Clinical Psychology & Psychotherapy 33*(5), e70345.  
 [Paper](https://doi.org/10.1002/cpp.70345) | [Preregistration](https://osf.io/r9yfx/overview) | [Code](https://github.com/astefan1/MoCDepression) | [Materials](https://osf.io/5c3pq/overview)  
 - Stefan, A. M., Pirrone, A., & Evans, N. J. (2026). All illusions are wrong, but some are useful. *Computational Brain & Behavior 9*, 408-410.  
 [Paper](https://doi.org/10.31234/osf.io/akhr9_v1) | [Materials](https://osf.io/mhsuw/overview)
