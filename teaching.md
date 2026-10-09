@@ -4,9 +4,27 @@ permalink: "/teach/"
 layout: page
 ---
 
-I have taught graduate and undergraduate courses and workshops about (Bayesian) statistics, programming, and Open Science practices. Below, you can find a list with course materials. Course materials are a mix of German and English, indicated by the little country flag on the side (course names are all translated to English). All linked course materials are under a [CC-BY license](https://creativecommons.org/licenses/by/4.0/deed.en). [Contact me](mailto:angelika.m.stefan@gmail.com) if you find the materials useful and/or if you want to invite me for a workshop!
+I have taught graduate and undergraduate courses and workshops about (Bayesian) statistics, programming, and Open Science practices. Below, you can find a list of courses, many of them with course materials. Course materials are a mix of German and English, indicated by the little country flag on the side (course names are all translated to English). All linked course materials are under a [CC-BY license](https://creativecommons.org/licenses/by/4.0/deed.en). [Contact me](mailto:angelika.m.stefan@gmail.com) if you find the materials useful and/or if you want to invite me for a workshop!
 
 ## Lecturing
+
+__2026__
+- <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="12"> PSYC135 Methodology and Statistics (II), University of Liverpool  
+Two 1.5-hour lectures in introductory statistics for undergraduate Psychology students; module assessment coordinator
+- <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="12"> PSYC134 Methodology and Statistics (I), University of Liverpool  
+Six 1.5-hour lectures in introductory statistics for undergraduate Psychology students; module assessment coordinator
+
+__2025__
+- <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="12"> PSYC134 Methodology and Statistics (I), University of Liverpool  
+Six 1.5-hour lectures in introductory statistics for undergraduate Psychology students; module assessment coordinator
+- <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="12"> PSYC130 Developmental Psychology, University of Liverpool  
+1-hour research-focused lecture on computational modelling for undergraduate Psychology students
+
+__2024__
+- <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="12"> PSYC134 Methodology and Statistics (I), University of Liverpool  
+Five 1.5-hour lectures in introductory statistics for undergraduate Psychology students; module assessment coordinator
+- <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="12"> PSYC130 Developmental Psychology, University of Liverpool  
+1-hour research-focused lecture on computational modelling for undergraduate Psychology students
 
 __2023__
 
@@ -33,6 +51,14 @@ Two 2-hour lectures on Bayesian inference for Psychology graduate students
 
 ## Small-Group Teaching
 
+__2026__
+- <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="12"> Year 2 Academic Advisor Group, University of Liverpool  
+Full-year (2-semester) biweekly course teaching quantitative research methods and providing pastoral support
+
+__2025__
+- <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="12"> Year 1 Academic Advisor Group, University of Liverpool  
+Full-year (2-semester) biweekly course teaching introduction to scientific writing and presenting and providing pastoral support
+
 __2024__
 
 - <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="12"> [Statistics II Exercise Groups](https://osf.io/hxyfn/), LMU Munich  
@@ -51,6 +77,13 @@ __2020__
 4-week Psychology undergraduate specialization course
 
 ## Workshops
+
+__2025__
+- <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="12"> [Introduction to Version Management with Github](https://osf.io/ph23w/files/bkh4d) (University of Liverpool)
+- <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="12"> [Sample Size Determination and Robustness Checks in Bayesian Inference](https://osf.io/byd72/) (University of Verona)
+
+__2024__
+- <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="12"> [Bayesian Sample Size Calculation](https://osf.io/wqb8e) (Cornell University)
 
 __2023__
 - <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="12"> [An Introduction to Bayesian Data Analysis with JASP](https://osf.io/vfg8s) (University of Hamburg)
@@ -85,24 +118,27 @@ __2019__
 
 ## Supervision
 
-__2023__
+__Bachelor thesis / dissertation__
 
-- Dominik Trommer (Master project, University of the Bundeswehr)
+*University of Liverpool*  
+Lauryn Brown, Jennifer Gore, Mia Hawkes, Sahib Hothi, Sofia Kargiotis, Sophie Lee, Poppy Massey, Patricia Melia, Merlin Raju, Niamh Sutton, Matthew Tyrer-Garner, Adrianna Wrobel
 
-__2022__
+*University of Amsterdam*  
+Laura Groot, Elise van Dam, Wesley Korff, Jori Lam, Suzanne van Steenoven, Waldo Stukje, Meike Waaijers, Tara Zohrevand
 
-- Laura Groot (Bachelor thesis, University of Amsterdam)
-- Meike Waaijers (Bachelor thesis, University of Amsterdam)
-- Tara Zohrevand (Bachelor thesis, University of Amsterdam)
-- Wesley Korff (Bachelor thesis, University of Amsterdam)
 
-__2021__
+__Master thesis / dissertation__
 
-- [Maximilian Meier](https://maxma1er.com/) (Master thesis, University of Amsterdam; UvA Psychology thesis prize :trophy:)
-- Alexander Heinz (Internship project with [Yagora GmbH](https://www.yagora.com/), Master thesis)
+*University of Liverpool*  
+Carys Hoggan
 
-__2019__
-- Elise van Dam (Bachelor thesis, University of Amsterdam)
-- Jori Lam (Bachelor thesis, University of Amsterdam)
-- Waldo Stukje (Bachelor thesis, University of Amsterdam)
-- Suzanne van Steenoven (Bachelor thesis, University of Amsterdam)
+*University of the Bundeswehr*  
+Dominik Trommer
+
+*University of Amsterdam*  
+[Maximilian Meier](https://maximilianmaier.net/) (Master thesis, University of Amsterdam; UvA Psychology thesis prize &#127942;), Alexander Heinz (Internship project with [Yagora GmbH](https://www.yagora.com/), Master thesis)
+
+__PhD students__
+
+- Carys Hoggan (2025-, main supervisor)
+- Wesley Nixon (2025-, co-supervisor)

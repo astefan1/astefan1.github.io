@@ -16,15 +16,29 @@ layout: page
 [Manuscript](https://osf.io/jxsgw/?view_only=1b1994774989419eac3be214fce974f7)
 -  Kaczmarek, N., Mignon, A., Rousseau, A., & Stefan, A. M. (2023). Comparing the effectiveness of mental contrasting, implementation intentions, and their combination to promote physical activity among insufficiently active people. Stage 1 Registered Report (in principle acceptance at International Review of Social Psychology).   
 [Manuscript](https://osf.io/92v8k/) | [Code](https://github.com/astefan1/GoalAchievement)
--  McKinney, K., Stefan, A. M., & Gronau, Q. F. (2021). Developing prior distributions for Bayesian meta-analyses.  
+-  McKinney, K., Stefan, A. M., & Gronau, Q. F.. Developing prior distributions for Bayesian meta-analyses.  
 [Manuscript](https://psyarxiv.com/2v5bz/) | [Code, Data, Materials](https://osf.io/2xubf/)
 
 ## Peer-Reviewed Publications
 
 ### Accepted / In Press
 
-- Stefan, A. M., Gronau, Q. F., & Wagenmakers, E.-J. (in press). Interim design analysis using Bayes factor forecasts. Psychological Methods.  
-[Manuscript](https://psyarxiv.com/9sazk) | [Code](https://github.com/astefan1/forecastBF) | [Materials](https://osf.io/xh2ep/)
+- Kaczmarek, N., Mignon, A., Rousseau, A., & Stefan, A. M. (in press). Comparing the effectiveness of mental contrasting, implementation intentions, and their combination to promote physical activity among insufficiently active people. *International Review of Social Psychology*.  
+[Preregistration](https://osf.io/sgjfw/overview) | [Stage 1 Registered Report](https://osf.io/92v8k/files/3zbnq) | [Data, Materials](https://osf.io/92v8k/overview) | [Code](https://github.com/astefan1/GoalAchievement)
+
+### 2026
+- Egli, S.*, Badenbach, T.*, van Emmerik, A., Stefan, A. M., OPTIMA Study Group, & Kopf-Beck, J. (2026). Mechanisms of change in the treatment of depression: On the role of attachment, reappraisal and suppression. *Clinical Psychology & Psychotherapy 33*(5), e70345.  
+[Paper](https://doi.org/10.1002/cpp.70345) | [Preregistration](https://osf.io/r9yfx/overview) | [Materials](https://osf.io/5c3pq/overview) | [Code](https://github.com/astefan1/MoCDepression) 
+- Stefan, A. M., Pirrone, A., & Evans, N. J. (2026). All illusions are wrong, but some are useful. *Computational Brain & Behavior 9*, 408-410.  
+[Paper](https://doi.org/10.31234/osf.io/akhr9_v1) | [Materials](https://osf.io/mhsuw/overview)
+
+### 2025
+- Claus, N., Flechsenhar, A., Motka, F., Ehring T., Sckopke, P., Schönbrodt, F. D., Stefan, A. M., Werner, G. G., Cludius, B., & Zygar-Hoffmann, C. (2025). Interpersonal versus intrapersonal emotion regulation: Intensity of negative emotion predicts usage probability. Emotion 25(6).  
+[Paper](https://doi.org/10.1037/emo0001508) | [Code](https://osf.io/hjzpw/) | [Preregistration](https://osf.io/72ejg/files/zmw7t) | [Data](https://doi.org/10.5160/psychdata.znce21em06)
+- Stefan, A. M., Gronau, Q. F., & Wagenmakers, E.-J. (2025). Interim design analysis using Bayes factor forecasts. *Psychological Methods 30*(6), 1198-1217.     
+[Paper](https://doi.org/10.1037/met0000641) | [Code](https://github.com/astefan1/forecastBF) | [Materials](https://osf.io/xh2ep/)
+- Gigerenzer, G., Allen, C., Gaillard, S. D. M., Goldstone, R. L., Haaf, J. M., Holmes, W. R., Kashima, Y., Motz, B., Musslick, S., & Stefan, A. M. (2025). Alternative models of funding curiosity-driven research. *PNAS 122*(5).  
+[Paper](https://doi.org/10.1073/pnas.240123712)
 
 ### 2024
 - Veenman, M., Stefan, A. M., & Haaf, J. (in press). Bayesian hierarchical modeling: An introduction and reassessment. Behavior Research Methods 56, 4600-4631.  
